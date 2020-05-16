@@ -1,0 +1,16 @@
+header {
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+.rotatingWords{
+    color: white;
+    text-align: center; 
+    font-size: 3rem;
+    position: absolute;
+    left: 0;
+    top:35vh;
+    width: 38vhvh;  
+    font-family: 'Inconsolata', monospace;
+}

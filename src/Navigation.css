@@ -1,0 +1,47 @@
+
+nav {
+    justify-content: space-between;
+    background: #1d809f;
+    align-items: center;
+    display: flex;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+/*
+*This is my name.
+*/
+.myName {
+    font-size: 24px;
+    color: white;
+    /*
+    !Need to get rid of translate. This is causing the name to fall off the screen.
+    */
+
+}
+
+
+.nav-links li a{
+    color: white;
+    padding: 24px;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+
+nav img{
+    color: #ffffff;
+    width: 112px;
+    height: 112px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #b1d0b0;
+    ;
+}
+
+nav ul li {
+    display: inline-block; 
+    padding-right: 20;
+    padding-left: 20;
+}
+

@@ -1,0 +1,15 @@
+.projects{
+    background-color: #b4354b;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+}
+
+.projects h2{
+    padding: 0;
+    font-size: 36px;
+    margin-top: -50px;
+    margin-bottom: 48px;;
+    color: #ffffff;
+}
